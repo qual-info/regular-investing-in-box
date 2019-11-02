@@ -14,6 +14,8 @@ for root, dirs, files in os.walk("."):
     for f in files:
         if f.endswith(".md"):
             fileName = os.path.join(root, f)[2:]
+            if "_book" in fileName:
+                continue
             if "/" not in fileName:
                 # 只取更目录的md文件
                 if fileName == "README.md":
