@@ -1,3 +1,8 @@
+# 定投改变命运
+书籍原地址：[https://github.com/xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)
+
+请大家对原作者多多支持！
+
 # On Regular Investing
 
 Regular investing is quite simple: 
